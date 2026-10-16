@@ -53,7 +53,7 @@ If you are preparing for senior Data Science, ML Engineering, or Quant roles, ge
 * 150+ Technical interview preparation questions and answers.
 * Production Docker and FastAPI deployment configurations.
 
-👉 **[Get the Complete Book & Codebase on Gumroad ($19)](https://gumroad.com)**  
+👉 **[Get the Complete Book & Codebase on Gumroad ($19)](https://apollosolal.gumroad.com/l/10-ds-projects)**  
 👉 **[Get the Kindle Edition on Amazon ($9.99)](https://amazon.com)**
 
 ---
